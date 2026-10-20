@@ -12,10 +12,9 @@ The platform is built with a production-ready architecture using React, Express.
 * Calendar & Event Scheduling
 * Team Collaboration
 * Comments & Activity Tracking
-* File Attachments
 * Notes & Personal Workspace
 * Time Tracking
-* Notifications
+
 
 ## Technology Stack
 
